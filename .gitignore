@@ -25,6 +25,7 @@ pip-delete-this-directory.txt
 ### --- Conda related ---
 conda-env/
 .conda/
+mlsec_env/
 
 ### ---IDE & Editors ---
 # VS Code
@@ -51,3 +52,6 @@ $RECYCLE.BIN/
 ### --- temp files ---
 tmp/
 temp/
+
+### Ignore data folder
+**/data/
